@@ -1,0 +1,9 @@
+TECHNOLOGY NEWS ETL REPORT
+===================================
+Generated UTC: 2026-10-19 10:37:14.314661+00:00
+Source: https://feeds.bbci.co.uk/news/technology/rss.xml
+Total unique articles: 21
+CSV output: C:\Users\HARiPRIYA\Desktop\automated-web-scraping-pipeline\data\scraped_data.csv
+Average title words: 7.57
+Articles with descriptions: 21
+Source distribution: {'BBC Technology': 21}
